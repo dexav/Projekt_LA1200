@@ -46,6 +46,8 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 ### 1.4 Diagramme
 
 *Kritzner macht PAP* ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![Vokabelabfragesystem](https://user-images.githubusercontent.com/110892637/197725481-310af2cc-4179-40df-b437-3969ae7eb789.png)
+
 
 ## 2 Planen
 
