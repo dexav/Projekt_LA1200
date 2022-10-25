@@ -4,7 +4,7 @@
 Gruppe Alpaca Nursiwat
 
 | Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |j
+| ----- | ------- | ------------------------------------------------------------ |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -18,8 +18,11 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss                |  Funktionale Anforderung    |Als User möchte ich   |
-| ...  |                 |      |                                    |
+| 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden.|
+| 2    |  kann           | funktional     |     Als User möchte ich dass es einen Punktesystem gibt. |
+|3|muss|funktonla|        Als User möchte Ich dass mich min. 20 Vocis abgefragt werden. |
+|4|muss|funktional|      Als User möchte ich dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann.|
+|5|muss|funktional|      Als Usermöchte ich ein |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
