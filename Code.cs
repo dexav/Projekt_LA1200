@@ -12,6 +12,7 @@ Console.WriteLine("Herzlich Willkommen zur Englisch Voci abfrage!");
             if (antwort[nummer] == englisch[nummer])
             {
                 Console.WriteLine("du hast es richtig übersetzt ");
+                pünkte++;
             }
             else
             {
@@ -19,6 +20,12 @@ Console.WriteLine("Herzlich Willkommen zur Englisch Voci abfrage!");
             }
                 Console.WriteLine("willst du nochmal spielen? true/false");
                 wiederhohlung = (Console.ReadLine());
+            }
+            else
+            {
+                        console.writline("du hast insgesamt");            
+                        console.writline(punkte);
+                        console.writline("erziehlt");      
             }
 
 hat Kontextmenü
