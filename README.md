@@ -19,15 +19,15 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden.|
-| 2    |  kann           | funktional     |     Als User möchte ich dass es einen Punktesystem gibt. |
-|3|muss|funktional|        Als User möchte Ich dass mich min. 20 Vocis abgefragt werden. |
+| 2    |  kann           | funktional     |     |
+|3|muss|funktional|      Als User möchte Ich dass mich min. 20 Vocis abgefragt werden. |
 |4|muss|funktional|      Als User möchte ich dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann.|
 |5|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe.|
 |6|muss|funktional|      Als User möchte ich, dass das Punktesystem einen Highscore anzeigt|
 |7|muss|funktional|      Als User möchte ich wissen, wie lange ich für das Beantworten gebraucht habe.|
 |8|muss|funktional|      Als User möchte ich, dass Wörter, die ich falsch beantwortet habe, nochmal abgefragt werden.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
