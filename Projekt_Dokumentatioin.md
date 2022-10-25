@@ -32,13 +32,13 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
-| 1    |              |         |                   |
-| 2    |              |         |                   |
-| 3    |              |         |                   |
-| 4    |              |         |                   |
-| 5    |              |         |                   |
-| 6    |              |         |                   |
-| 7    |              |         |                   |
+| 1    |programm ist geöfnet              |name         |es speichert und zeigt den highscore an                   |
+| 2    |programm ist geöfnet              | man bestätigt dass man 20 mal abgefragt werden will        |man wird 20 mal abgefragt                   |
+| 3    |program fragt ob man deutsch oder englisch will              |man gibt die gewählte sprache ein         |man wird in der gewälten sprache abgefragt                   |
+| 4    |programm ist geöfnet              |nichts         |es zeigt die punkte an                   |
+| 5    |program ist geöfnet              |nichts         |es zeigt den highscore an                   |
+| 6    |program ist geöfnet              |nichts         |es zeigt ein timer an                   |
+| 7    |man beantwortet eine frage falsch              |man bestägtigt dass man weiter macht         |es fragt die selbe frage noch mal                   |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
