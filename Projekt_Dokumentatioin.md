@@ -62,6 +62,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min              |
 |   |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min|    |      
 |    |      | Nursiwat         |Dem User wird eine Wahl gegeben ob er auf English oder auf Deutsch antworten möchte |45 min|
+|||Nursiwat|Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat|60 min|
 
 Total: 
 
