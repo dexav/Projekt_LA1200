@@ -1,7 +1,7 @@
 # Projekt-Dokumentation
 
 
-Gruppe Alpaca Nursiwat
+Gruppe Alpaca Nursiwat nigger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
