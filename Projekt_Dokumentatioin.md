@@ -63,7 +63,11 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |   |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min|    |      
 |    |      | Nursiwat         |Dem User wird eine Wahl gegeben ob er auf English oder auf Deutsch antworten möchte |45 min|
 |||Nursiwat|Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat|60 min|
-
+|    |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
+|    |      | Kritzner         |Das Punktesystem kann einen Highscore berechnen. |10 min|
+|    |      | Kritzner         |Am Ende wird der höchste Highscore angezeigt.|5 min|
+|    |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
+|    |      | Kritzner         |Falsche Übersetzungen werden nochmal abgefragt.|20 min|
 Total: 
 
 
