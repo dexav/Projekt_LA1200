@@ -19,21 +19,19 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden.|
-|2|muss|funktional|      Als User möchte Ich dass mich min. 20 Vocis abgefragt werden. |
-|3|muss|funktional|      Als User möchte ich dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann.|
-|4|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe.|
-|5|muss|funktional|      Als User möchte ich, dass das Punktesystem einen Highscore anzeigt|
-|6|muss|funktional|      Als User möchte ich wissen, wie lange ich für das Beantworten gebraucht habe.|
-|7|muss|funktional|      Als User möchte ich, dass Wörter, die ich falsch beantwortet habe, nochmal abgefragt werden.|
+| 2    |  kann           | funktional     |     Als User möchte ich dass es einen Punktesystem gibt. |
+|3|muss|funktional|        Als User möchte Ich dass mich min. 20 Vocis abgefragt werden. |
+|4|muss|funktional|      Als User möchte ich dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann.|
+|5|muss|funktional|      Als User möchte ich ein  |
 
-
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
-|      |              |         |                   |
+|  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -45,8 +43,12 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+|   |       |  Lennard      |  Der User wird nach seinem Alter gefragt            |   25 min            |
+|   |       |   Lennard        |   Der User wird nach seinem Namen gefragt           |  25 min            |
+|   |       |   Lennard        |  Der User wird gefragt ob er einige Persönliche Fragen beantworrten möchte            |     25 min          |
+|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wieviele Punke er hat          |      45 min         |
+|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat           |   45 min            |
+|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min              |
 
 Total: 
 
