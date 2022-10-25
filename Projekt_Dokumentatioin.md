@@ -68,6 +68,8 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |    |      | Kritzner         |Am Ende wird der höchste Highscore angezeigt.|5 min|
 |    |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
 |    |      | Kritzner         |Falsche Übersetzungen werden nochmal abgefragt.|20 min|
+|    |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
+|    |      | Mitrovic         |||
 Total: 
 
 
