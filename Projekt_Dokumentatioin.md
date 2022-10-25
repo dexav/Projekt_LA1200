@@ -62,6 +62,8 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat           |   45 min            |
 |   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min              |
 |   |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min|
+|   |       |Mitrovic          |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist.|30 min|
+|   |       |Mitrovic          |||
 
 Total: 
 
