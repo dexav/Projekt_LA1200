@@ -53,6 +53,12 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       |           |              |               |
 | ...  |       |           |              |               |
+|   |       |  Lennard      |  Der User wird nach seinem Alter gefragt            |   25 min            |
+|   |       |   Lennard        |   Der User wird nach seinem Namen gefragt           |  25 min            |
+|   |       |   Lennard        |  Der User wird gefragt ob er einige Persönliche Fragen beantworrten möchte            |     25 min          |
+|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wieviele Punke er hat          |      45 min         |
+|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat           |   45 min            |
+|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min              |
 
 Total: 
 
@@ -96,3 +102,4 @@ Total:
 ## 6 Auswerten
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
