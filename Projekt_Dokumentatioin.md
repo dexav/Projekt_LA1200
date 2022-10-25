@@ -72,7 +72,14 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |    |      | Kritzner         |Der Timer wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
 |    |      | Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
 |    |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
-|    |      | Mitrovic         |||
+|||Leonardo |die frage wird gestellt|10min|
+|||Leonardo |man kann die frage beantworten|10min|
+|||Leonardo |das program sagt ob es richtig oder falsch war|20|
+|||Leonardo |das program zeigt die punket an|40|
+|||Leonardo |das program hat ein timer|40|
+|||Leonardo |das program crasht nicht bei falschen antworten|20|
+|||Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
+|||Leonardo |man kann das Programm beenden wenn man es will|10|
 Total: 
 
 
