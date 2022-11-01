@@ -66,16 +66,12 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |    |      | Kritzner         |Das Punktesystem kann einen Highscore berechnen. |10 min|
 |    |      | Kritzner         |Am Ende wird der höchste Highscore angezeigt.|5 min|
 |    |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
-|    |      | Kritzner         |Falsche Übersetzungen werden nochmal abgefragt.|20 min|
-|    |      | Kritzner         |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|80 min|
 |    |      | Kritzner         |Der Timer wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
 |    |      | Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
 |    |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
-|||Leonardo |die frage wird gestellt|10min|
-|||Leonardo |man kann die frage beantworten|10min|
-|||Leonardo |das program sagt ob es richtig oder falsch war|20|
+|||Mitrovic| Es wird zuffällig abgefragt und nicht.|30min|
 |||Leonardo |das program zeigt die punket an|40|
-|||Leonardo |das program hat ein timer|40|
+|||Leonardo ||Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
 |||Leonardo |das program crasht nicht bei falschen antworten|20|
 |||Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
 |||Leonardo |man kann das Programm beenden wenn man es will|10|
