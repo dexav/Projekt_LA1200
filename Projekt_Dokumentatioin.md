@@ -58,8 +58,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |   |       |   Lennard        |  Der User wird gefragt ob er einige Persönliche Fragen beantworrten möchte            |     25 min          |
 |   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wieviele Punke er hat          |      45 min         |
 |   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat           |   45 min            |
-|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min              |
-|   |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min|    |      
+|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min       |     
 |    |      | Nursiwat         |Dem User wird eine Wahl gegeben ob er auf English oder auf Deutsch antworten möchte |45 min|
 |||Nursiwat|Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat|60 min|
 |    |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
@@ -69,7 +68,8 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |    |      | Kritzner         |Der Timer wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
 |    |      | Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
 |    |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
-|||Mitrovic| Es wird zuffällig abgefragt.|30min|
+|||Mitrovic| Es wird zuffällig abgefragt.|30min
+|   |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min| 
 |||Leonardo |das program zeigt die punket an|40|
 |||Leonardo |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
 |||Leonardo |das program crasht nicht bei falschen antworten|20|
