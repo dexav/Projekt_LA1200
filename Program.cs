@@ -6,7 +6,7 @@ namespace LA1200_
         static void Main(string[] args)
         {
             my label;
-            string antowerten = "DE";
+           
             Console.WriteLine("Möchtest du auf English(EN) oder auf Deutsch(DE) antworten?");
             string antwort = Console.ReadLine();
 
