@@ -69,7 +69,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |    |      | Kritzner         |Der Timer wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
 |    |      | Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
 |    |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
-|||Mitrovic| Es wird zuffällig abgefragt und nicht.|30min|
+|||Mitrovic| Es wird zuffällig abgefragt.|30min|
 |||Leonardo |das program zeigt die punket an|40|
 |||Leonardo ||Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
 |||Leonardo |das program crasht nicht bei falschen antworten|20|
