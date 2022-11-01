@@ -2,7 +2,7 @@
 Console.WriteLine("Herzlich Willkommen zur Englisch Voci abfrage!");
 
 
-
+            DateTime Start = DateTime.Now;
             bool wiederhohlung = true;
             if (wiederhohlung == true)
             {
@@ -26,7 +26,10 @@ Console.WriteLine("Herzlich Willkommen zur Englisch Voci abfrage!");
             {
                         console.writline("du hast insgesamt");            
                         console.writline(punkte);
-                        console.writline("erziehlt");      
+                        console.writline("erziehlt");
+                        DateTime Ende = DateTime.Now;
+                        TimeSpan Zeit = Start - Ende;
+                        Console.WriteLine(Zeit);
             }
 
 hat Kontextmenü
