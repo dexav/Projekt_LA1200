@@ -71,7 +71,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |    |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
 |||Mitrovic| Es wird zuffällig abgefragt.|30min|
 |||Leonardo |das program zeigt die punket an|40|
-|||Leonardo ||Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
+|||Leonardo |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
 |||Leonardo |das program crasht nicht bei falschen antworten|20|
 |||Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
 |||Leonardo |man kann das Programm beenden wenn man es will|10|
