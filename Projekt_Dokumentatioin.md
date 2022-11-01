@@ -44,8 +44,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 ### 1.4 Diagramme
 
-
-![Vokabelabfragesystem](https://user-images.githubusercontent.com/110892637/197725481-310af2cc-4179-40df-b437-3969ae7eb789.png)
+![Vokabelabfragesystem](https://user-images.githubusercontent.com/110892683/199191825-54e9a86f-454f-4414-8c04-3a19e41bbdf0.png)
 
 
 ## 2 Planen
