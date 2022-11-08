@@ -34,11 +34,12 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | ---- | ------------ | ------- | ----------------- |
 | 1    |programm ist geöfnet              |name         |es speichert und zeigt den highscore an                   |
 | 2    |programm ist geöfnet              | man bestätigt dass man 20 mal abgefragt werden will        |man wird 20 mal abgefragt                   |
-| 3    |program fragt ob man deutsch oder englisch will              |man gibt die gewählte sprache ein         |man wird in der gewälten sprache abgefragt                   |
+| 3    |program fragt ob man deutsch oder englisch will              |man gibt die gewählte sprache ein         |man wird in der gewälten sprache abgefragt       |
 | 4    |programm ist geöfnet              |nichts         |es zeigt die punkte an                   |
 | 5    |program ist geöfnet              |nichts         |es zeigt den highscore an                   |
 | 6    |program ist geöfnet              |nichts         |es zeigt ein timer an                   |
 | 7    |man beantwortet eine frage falsch              |man bestägtigt dass man weiter macht         |es fragt die selbe frage noch mal                   |
+|8     | User wird nach Alter gefragt  | User gibt Alter ein | es wird gespeichert |
 
 
 
@@ -60,7 +61,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat           |   45 min            |
 |   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min       |     
 |    |      | Nursiwat         |Dem User wird eine Wahl gegeben ob er auf English oder auf Deutsch antworten möchte |45 min|
-|||Nursiwat|Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat|60 min|
+|    |     |Nursiwat            |Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat|60 min|
 |    |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
 |    |      | Kritzner         |Das Punktesystem kann einen Highscore berechnen. |10 min|
 |    |      | Kritzner         |Am Ende wird der höchste Highscore angezeigt.|5 min|
@@ -68,13 +69,13 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |    |      | Kritzner         |Der Timer wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
 |    |      | Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
 |    |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
-|||Mitrovic| Es wird zuffällig abgefragt.|30min
+|     |      |Mitrovic| Es wird zuffällig abgefragt.|30min
 |   |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min| 
-|||Leonardo |das program zeigt die punket an|40|
-|||Leonardo |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
-|||Leonardo |das program crasht nicht bei falschen antworten|20|
-|||Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
-|||Leonardo |man kann das Programm beenden wenn man es will|10|
+|     |    |Leonardo |das program zeigt die punket an|40|
+|     |      |Leonardo |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
+|     |      |Leonardo |das program crasht nicht bei falschen antworten|20|
+|     |      |Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
+|     |      |Leonardo |man kann das Programm beenden wenn man es will|10|
 Total: 
 
 
