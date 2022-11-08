@@ -74,6 +74,8 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | 20.A    |      |Leonardo |das program crasht nicht bei falschen antworten|20|
 | 21.A    |      |Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
 | 22.A    |      |Leonardo |man kann das Programm beenden wenn man es will|10|
+|     |      |Lennard|Nach dem beenden des Programms wird der User gefragt ob er ein Feetback geben möchte|20|
+|     |      |Lennard |Der User kann ein Feetback gebebn|20|
 Total: 
 
 
