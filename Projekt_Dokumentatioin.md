@@ -18,7 +18,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden.|
+| 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden, damit ich später das Programm wieder benutzten kann.|
 |2|muss|funktional|      Als User möchte Ich, dass mich min. 20 Vocis abgefragt werden. |
 |3|muss|funktional|      Als User möchte ich, dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann, damit ich auf verschiedener Art lernen kann.|
 |4|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe, damit ich eine Übersicht habe wo ich Schwierigkeiten habe und auf welchem Level ich mich befinde.|
@@ -32,20 +32,19 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
-| 1    |Pogramm ist geöfnet              |name         |es speichert und zeigt den highscore an                   |
-| 2    |Pogramm ist geöfnet              | man bestätigt dass man 20 mal abgefragt werden will        |man wird 20 mal abgefragt                   |
-| 3    |Programm gibt eine Sprachauswahl aus|M   der gewählten Sprache
-| 4    |Programm ist geöffnet        |es zeigt die punkte an                   |
-| 5    |Programm ist geöffnet         |es zeigt den highscore an                   |
-| 6    |Programm ist geöffnet          |nichts         |es zeigt ein timer an                   |
-| 7    |man beantwortet eine frage falsch              |man bestägtigt dass man weiter macht         |es fragt die selbe frage noch mal                   |
-|8     | User wird nach Alter gefragt  | User gibt Alter ein | es wird gespeichert |
+| 1    |Pogramm ist geöffnet              |Der User gibt seinen Namen ein     |Es wird gepseichert und es zeigtr den Hihgscore an.         |
+| 2    |Pogramm ist geöffnet              | Der User bestätigt dass er 20 Mal abgefragt werden will      |man wird 20 mal abgefragt                   |
+| 3    |Programm gibt eine Sprachauswahl aus| Der User gibt ein ob er auf Deutsch oder English antworten will| Es wird die ausgewählte Sprache ausgewählt|
+| 4    | Der User will seinen Highscore wissen  |   Highscore anzeigen | Der Highscore wird angezeigt.|
+| 5   |Programm ist geöffnet          |nichts         |Es wird ein Timer gemacht|
+| 6   |man beantwortet eine Frage falsch        |man bestägtigt dass man weiter macht         |Es wird die selbe Frage nochmals gestellt.|
+|7    | User wird nach Alter gefragt  | User gibt Alter ein | es wird gespeichert |
 
 
 
 ### 1.4 Diagramme
 
-![Vokabelabfragesystem](https://user-images.githubusercontent.com/110892683/200522491-13c97eb1-2f3f-4f16-8f9c-27de4db2cd43.png)
+![Vokabelabfragesystem](https://user-images.githubusercontent.com/110892683/199191825-54e9a86f-454f-4414-8c04-3a19e41bbdf0.png)
 
 
 ## 2 Planen
