@@ -5,7 +5,7 @@ Gruppe Alpaca Nursiwat
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | ...     |                                                              |
+|   08/11/22    | 0.1.0     |                                                            |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
