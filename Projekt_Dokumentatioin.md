@@ -52,30 +52,28 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-|   |       |  Lennard      |  Der User wird nach seinem Alter gefragt            |   25 min            |
-|   |       |   Lennard        |   Der User wird nach seinem Namen gefragt           |  25 min            |
-|   |       |   Lennard        |  Der User wird gefragt ob er einige Persönliche Fragen beantworrten möchte            |     25 min          |
-|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wieviele Punke er hat          |      45 min         |
-|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat           |   45 min            |
-|   |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min       |     
-|    |      | Nursiwat         |Dem User wird eine Wahl gegeben ob er auf English oder auf Deutsch antworten möchte |45 min|
-|    |     |Nursiwat            |Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat|60 min|
-|    |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
-|    |      | Kritzner         |Das Punktesystem kann einen Highscore berechnen. |10 min|
-|    |      | Kritzner         |Am Ende wird der höchste Highscore angezeigt.|5 min|
-|    |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
-|    |      | Kritzner         |Der Timer wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
-|    |      | Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
-|    |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
-|     |      |Mitrovic| Es wird zuffällig abgefragt.|30min
-|   |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min| 
-|     |    |Leonardo |das program zeigt die punket an|40|
-|     |      |Leonardo |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
-|     |      |Leonardo |das program crasht nicht bei falschen antworten|20|
-|     |      |Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
-|     |      |Leonardo |man kann das Programm beenden wenn man es will|10|
+| 1.A|       |  Lennard      |  Der User wird nach seinem Alter gefragt            |   25 min            |
+| 2.A  |       |   Lennard        |   Der User wird nach seinem Namen gefragt           |  25 min            |
+| 3.A  |       |   Lennard        |  Der User wird gefragt ob er einige Persönliche Fragen beantworrten möchte            |     25 min          |
+|  4.A |       |   Lennard        |   Dem User wird eine Übersicht gegeben wieviele Punke er hat          |      45 min         |
+|  5.A |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat           |   45 min            |
+|  6.A |       |   Lennard        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min       |     
+|    7.A|      | Nursiwat         |Dem User wird eine Wahl gegeben ob er auf English oder auf Deutsch antworten möchte |45 min|
+|    8.A|     |Nursiwat            |Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat|60 min|
+| 9.A   |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
+|  10.A  |      | Kritzner         |Das Punktesystem kann einen Highscore berechnen. |10 min|
+|   11.A |      | Kritzner         |Am Ende wird der höchste Highscore angezeigt.|5 min|
+|  12.A  |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
+|  13.A  |      | Kritzner         |Der Timer wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
+| 14.A   |      | Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
+| 15.A   |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
+| 16.A    |      |Mitrovic| Es wird zuffällig abgefragt.|30min
+| 17.A  |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min| 
+| 18.A    |    |Leonardo |das program zeigt die punket an|40|
+| 19.A    |      |Leonardo |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
+| 20.A    |      |Leonardo |das program crasht nicht bei falschen antworten|20|
+| 21.A    |      |Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
+| 22.A    |      |Leonardo |man kann das Programm beenden wenn man es will|10|
 Total: 
 
 
