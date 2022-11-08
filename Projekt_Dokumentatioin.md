@@ -74,8 +74,8 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | 20.A    |      |Leonardo |Das program crasht nicht bei falschen antworten|20 min|
 | 21.A    |      |Leonardo |Das program hat ein throw catch system um nicht abzustürzen|50 min|
 | 22.A    |      |Leonardo |Man kann das Programm beenden wenn man es will|10 min|
-| 23.A|      |Lennard|Nach dem beenden des Programms wird der User gefragt ob er ein Feetback geben möchte|20 min|
-| 24.A  |      |Lennard |Der User kann ein Feetback gebebn|20 min|
+| 23.A|      |Mitrovic|Nach dem beenden des Programms wird der User gefragt ob er ein Feedback geben möchte|20 min|
+| 24.A  |      |Mitrovic |Der User kann ein Feedback gebebn|20 min|
 Total: 
 
 
