@@ -23,12 +23,12 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden, damit ich später das Programm wieder benutzten kann.|
+| 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden, damit ich später das Programm wieder benutzten kann|
 |2|muss|funktional|      Als User möchte Ich, dass mich min. 20 Vocis abgefragt werden. |
-|3|muss|funktional|      Als User möchte ich, dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann, damit ich auf verschiedener Art lernen kann.|
-|4|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe, damit ich eine Übersicht habe wo ich Schwierigkeiten habe und auf welchem Level ich mich befinde.|
-|5|muss|funktional|      Als User möchte ich, dass das Punktesystem einen Highscore anzeigt, damit mich das Programm motiviert bessere Leistungen zu erzielen. |
-|6|muss|funktional|      Als User möchte ich wissen, wie lange ich für das Beantworten der Vokabeln gebraucht habe, damit ich eine Übersicht habe, ob ich länger oder kürzer brauchte.|
+|3|muss|funktional|      Als User möchte ich, dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann, damit ich auf verschiedener Art lernen kann|
+|4|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe, damit ich eine Übersicht habe wo ich Schwierigkeiten habe und auf welchem Level ich mich befinde|
+|5|muss|funktional|      Als User möchte ich, dass das Punktesystem einen Highscore anzeigt, damit mich das Programm motiviert bessere Leistungen zu erzielen |
+|6|muss|funktional|      Als User möchte ich wissen, wie lange ich für das Beantworten der Vokabeln gebraucht habe, damit ich eine Übersicht habe, ob ich länger oder kürzer brauchte|
 |7|muss|funktional|      Als User möchte ich, dass Wörter, die ich falsch beantwortet habe, nochmal abgefragt werden, damit ich meine Fehler besser lernen und auch testen kann|
 
 
