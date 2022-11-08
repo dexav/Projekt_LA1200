@@ -69,13 +69,13 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | 15.A   |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist|15 min|
 | 16.A    |      |Mitrovic| Es wird zuffällig abgefragt.|30min
 | 17.A  |       |Mitrovic          |Dem User werden mindestens 20 Vocis abgefragt. |30 min| 
-| 18.A    |    |Leonardo |das program zeigt die punket an|40|
-| 19.A    |      |Leonardo |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40|
-| 20.A    |      |Leonardo |das program crasht nicht bei falschen antworten|20|
-| 21.A    |      |Leonardo |das program hat ein throw catch system um nicht abzustürzen|50|
-| 22.A    |      |Leonardo |man kann das Programm beenden wenn man es will|10|
-|     |      |Lennard|Nach dem beenden des Programms wird der User gefragt ob er ein Feetback geben möchte|20|
-|     |      |Lennard |Der User kann ein Feetback gebebn|20|
+| 18.A    |    |Leonardo |Das program zeigt die punket an|40|
+| 19.A    |      |Leonardo |Das Programm startet einen Timer wenn der User beginnt zu übersetzten.|40 min|
+| 20.A    |      |Leonardo |Das program crasht nicht bei falschen antworten|20 min|
+| 21.A    |      |Leonardo |Das program hat ein throw catch system um nicht abzustürzen|50 min|
+| 22.A    |      |Leonardo |Man kann das Programm beenden wenn man es will|10 min|
+| 23.A|      |Lennard|Nach dem beenden des Programms wird der User gefragt ob er ein Feetback geben möchte|20 min|
+| 24.A  |      |Lennard |Der User kann ein Feetback gebebn|20 min|
 Total: 
 
 
