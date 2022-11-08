@@ -1,12 +1,12 @@
-
 namespace LA1200_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            my label;
-           
+
+            int punkte = 0;
+        label:
             Console.WriteLine("Möchtest du auf English(EN) oder auf Deutsch(DE) antworten?");
             string antwort = Console.ReadLine();
 
@@ -20,6 +20,7 @@ namespace LA1200_
                 bool wiederhohlung = true;
                 if (wiederhohlung == true)
                 {
+                    Random rnd = new Random();
                     int nummer = rnd.Next(1, 21);
                     Console.WriteLine("übersetze ins englisch:");
                     Console.WriteLine(deutsch[nummer]);
@@ -27,7 +28,7 @@ namespace LA1200_
                     if (antwort[nummer] == englisch[nummer])
                     {
                         Console.WriteLine("du hast es richtig übersetzt ");
-                        pünkte++;
+                        punkte++;
                     }
                     else
                     {
@@ -39,7 +40,7 @@ namespace LA1200_
                 else
                 {
                     Console.WriteLine("du hast insgesamt");
-                    Console.WriteLine (punkte);
+                    Console.WriteLine();
                     Console.WriteLine("erziehlt");
                     DateTime Ende = DateTime.Now;
                     TimeSpan Zeit = Start - Ende;
@@ -57,6 +58,7 @@ namespace LA1200_
                 bool wiederhohlung = true;
                 if (wiederhohlung == true)
                 {
+                    Random rnd = new Random();
                     int nummer = rnd.Next(1, 21);
                     Console.WriteLine("übersetze auf Deutsch:");
                     Console.WriteLine(englisch[nummer]);
@@ -64,7 +66,7 @@ namespace LA1200_
                     if (antwort[nummer] == deutsch[nummer])
                     {
                         Console.WriteLine("du hast es richtig übersetzt ");
-                        pünkte++;
+                       punkte++;
                     }
                     else
                     {
@@ -74,13 +76,13 @@ namespace LA1200_
                     wiederhohlung = Convert.ToBoolean(Console.ReadLine());
                     if (wiederhohlung = true)
                     {
-                        goto my; label;
+                        goto label;
                     }
                 }
                 else
                 {
-                    Console.WriteLine ("du hast insgesamt");
-                    Console.WriteLine(punkte);
+                    Console.WriteLine("du hast insgesamt");
+                    Console.WriteLine();
                     Console.WriteLine("erziehlt");
                     DateTime Ende = DateTime.Now;
                     TimeSpan Zeit = Start - Ende;
