@@ -19,12 +19,12 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden.|
-|2|muss|funktional|      Als User möchte Ich dass mich min. 20 Vocis abgefragt werden. |
-|3|muss|funktional|      Als User möchte ich dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann.|
-|4|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe.|
-|5|muss|funktional|      Als User möchte ich, dass das Punktesystem einen Highscore anzeigt|
-|6|muss|funktional|      Als User möchte ich wissen, wie lange ich für das Beantworten gebraucht habe.|
-|7|muss|funktional|      Als User möchte ich, dass Wörter, die ich falsch beantwortet habe, nochmal abgefragt werden.|
+|2|muss|funktional|      Als User möchte Ich, dass mich min. 20 Vocis abgefragt werden. |
+|3|muss|funktional|      Als User möchte ich, dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann, damit ich auf verschiedener Art lernen kann.|
+|4|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe, damit ich eine Übersicht habe wo ich Schwierigkeiten habe und auf welchem Level ich mich befinde.|
+|5|muss|funktional|      Als User möchte ich, dass das Punktesystem einen Highscore anzeigt, damit mich das Programm motiviert bessere Leistungen zu erzielen. |
+|6|muss|funktional|      Als User möchte ich wissen, wie lange ich für das Beantworten der Vokabeln gebraucht habe, damit ich eine Übersicht habe, ob ich länger oder kürzer brauchte.|
+|7|muss|funktional|      Als User möchte ich, dass Wörter, die ich falsch beantwortet habe, nochmal abgefragt werden, damit ich meine Fehler besser lernen und auch testen kann|
 
 
 
@@ -32,12 +32,12 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
-| 1    |programm ist geöfnet              |name         |es speichert und zeigt den highscore an                   |
-| 2    |programm ist geöfnet              | man bestätigt dass man 20 mal abgefragt werden will        |man wird 20 mal abgefragt                   |
-| 3    |program fragt ob man deutsch oder englisch will              |man gibt die gewählte sprache ein         |man wird in der gewälten sprache abgefragt       |
-| 4    |programm ist geöfnet              |nichts         |es zeigt die punkte an                   |
-| 5    |program ist geöfnet              |nichts         |es zeigt den highscore an                   |
-| 6    |program ist geöfnet              |nichts         |es zeigt ein timer an                   |
+| 1    |Pogramm ist geöfnet              |name         |es speichert und zeigt den highscore an                   |
+| 2    |Pogramm ist geöfnet              | man bestätigt dass man 20 mal abgefragt werden will        |man wird 20 mal abgefragt                   |
+| 3    |Programm gibt eine Sprachauswahl aus|M   der gewählten Sprache
+| 4    |Programm ist geöffnet        |es zeigt die punkte an                   |
+| 5    |Programm ist geöffnet         |es zeigt den highscore an                   |
+| 6    |Programm ist geöffnet          |nichts         |es zeigt ein timer an                   |
 | 7    |man beantwortet eine frage falsch              |man bestägtigt dass man weiter macht         |es fragt die selbe frage noch mal                   |
 |8     | User wird nach Alter gefragt  | User gibt Alter ein | es wird gespeichert |
 
@@ -52,7 +52,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A|       |  Bühler     |  Der User wird nach seinem Alter gefragt.            |   25 min            |
+| 1.A|         |  Bühler     |  Der User wird nach seinem Alter gefragt.            |   25 min            |
 | 2.A  |       |   Bühler        |   Der User wird nach seinem Namen gefragt.           |  25 min            |
 | 3.A  |       |   Bühler        |  Der User wird gefragt ob er einige Persönliche Fragen beantworten möchte.            |     25 min          |
 |  4.A |       |   Bühler        |   Dem User wird eine Übersicht gegeben wie viele Punkte er hat.         |      45 min         |
@@ -79,6 +79,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |25.A|      |Mitrovic| Das Programm gibt pro richtige Antwort +1 Punkt und pro falschen Antwort -1 Punkt.|30 min|
 |26.A|      |Nursiwat|Das Programm fragt den User ob er seine falschen Antworten verbessern möchte|10 min|
 |27.A|      |Nursiwat|Der User kann entscheiden ob er seine falschen Antworten direkt wieder testen möchte oder eine pause macht.|10 min|
+|28.A|      |Grigioni|||
 Total: 
 
 
