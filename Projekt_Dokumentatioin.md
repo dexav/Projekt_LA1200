@@ -5,8 +5,13 @@ Gruppe Alpaca Nursiwat
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   08/11/22    | 0.1.0     |                                                            |
-|       | 1.0.0   |                                                              |
+|   25.10.2022    |  0.1.0  |       Dokumentation angefangen und Planen des Projektes                             |
+|    01.11.2022   | 0.2.5   |       Dokumentation weitergearbeitet, Liste für das Voci, Stopuhr und Start Frage und Feedback am Ende                                                       |
+|    07.11.2022   | 0.5.0   |       Dokumentation weitergearbeite,               |
+|    14.11.2022   | 1.0.0   |                                                              |
+
+
+
 
 ## 1 Informieren
 
@@ -32,13 +37,13 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
-| 1    |Pogramm ist geöffnet              |Der User gibt seinen Namen ein     |Es wird gepseichert und es zeigtr den Hihgscore an.         |
-| 2    |Pogramm ist geöffnet              | Der User bestätigt dass er 20 Mal abgefragt werden will      |man wird 20 mal abgefragt                   |
+| 1    |Pogramm wird geöffnet              |Der User gibt seinen Namen ein     |Es wird gepseichert und es zeigtr den Hihgscore an         |
+| 2    |Pogramm wird geöffnet              | Der User bestätigt dass er 20 Mal abgefragt werden will      |man wird 20 mal abgefragt                   |
 | 3    |Programm gibt eine Sprachauswahl aus| Der User gibt ein ob er auf Deutsch oder English antworten will| Es wird die ausgewählte Sprache ausgewählt|
-| 4    | Der User will seinen Highscore wissen  |   Highscore anzeigen | Der Highscore wird angezeigt.|
-| 5   |Programm ist geöffnet          |nichts         |Es wird ein Timer gemacht|
-| 6   |man beantwortet eine Frage falsch        |man bestägtigt dass man weiter macht         |Es wird die selbe Frage nochmals gestellt.|
-|7    | User wird nach Alter gefragt  | User gibt Alter ein | es wird gespeichert |
+| 4    | Der User will seinen Highscore wissen  |   Highscore anzeigen | Der Highscore wird angezeigt|
+| 5   |Programm wird gestartet          |   Der User fängt an mit dem Übersetzen      |Es wird ein Timer gestartet|
+| 6   |man beantwortet eine Frage falsch        |Man bestägtigt dass man weiter macht         |Es wird die selbe Frage nochmals gestellt|
+|7    | User wird nach Alter gefragt  | User gibt Alter ein | Es wird gespeichert |
 
 
 
