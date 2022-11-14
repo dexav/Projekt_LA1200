@@ -6,8 +6,8 @@ Gruppe Alpaca Nursiwat
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   25.10.2022    |  0.1.0  |       Dokumentation angefangen und Planen des Projektes                             |
-|    01.11.2022   | 0.2.5   |       Dokumentation weitergearbeitet, Liste für das Voci, Stopuhr und Start Frage und Feedback am Ende                                                       |
-|    07.11.2022   | 0.5.0   |       Dokumentation weitergearbeite,               |
+|    01.11.2022   | 0.2.5   |       Dokumentation erweitert, Liste für das Voci, Stoppuhr, Startfragen und Feedback am Ende                                                       |
+|    07.11.2022   | 0.5.0   |       Dokumentation erweietert,               |
 |    14.11.2022   | 1.0.0   |                                                              |
 
 
@@ -23,13 +23,13 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden, damit ich später das Programm wieder benutzten kann|
+| 1    | muss            |  Funktionale |Als User möchte ich dass meine Daten gespeichert werden, damit ich später das Programm wieder benutzten kann.|
 |2|muss|funktional|      Als User möchte Ich, dass mich min. 20 Vocis abgefragt werden. |
-|3|muss|funktional|      Als User möchte ich, dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann, damit ich auf verschiedener Art lernen kann|
-|4|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe, damit ich eine Übersicht habe wo ich Schwierigkeiten habe und auf welchem Level ich mich befinde|
-|5|muss|funktional|      Als User möchte ich, dass das Punktesystem einen Highscore anzeigt, damit mich das Programm motiviert bessere Leistungen zu erzielen |
-|6|muss|funktional|      Als User möchte ich wissen, wie lange ich für das Beantworten der Vokabeln gebraucht habe, damit ich eine Übersicht habe, ob ich länger oder kürzer brauchte|
-|7|muss|funktional|      Als User möchte ich, dass Wörter, die ich falsch beantwortet habe, nochmal abgefragt werden, damit ich meine Fehler besser lernen und auch testen kann|
+|3|muss|funktional|      Als User möchte ich, dass ich auswählen kann ob ich auf Deutsch oder auf Englisch antworten kann, damit ich auf verschiedener Art lernen kann.|
+|4|muss|funktional|      Als User möchte ich ein Punktesystem, dass mir zeigt wie viele ich richtig und falsch gemacht habe, damit ich eine Übersicht habe wo ich Schwierigkeiten habe und auf welchem Level ich mich befinde.|
+|5|muss|funktional|      Als User möchte ich, dass das Punktesystem einen Highscore anzeigt, damit mich das Programm motiviert bessere Leistungen zu erzielen. |
+|6|muss|funktional|      Als User möchte ich wissen, wie lange ich für das Beantworten der Vokabeln gebraucht habe, damit ich eine Übersicht habe, ob ich länger oder kürzer brauchte.|
+|7|muss|funktional|      Als User möchte ich, dass Wörter, die ich falsch beantwortet habe, nochmal abgefragt werden, damit ich an meinen Fehlern arbeiten kann.|
 
 
 
@@ -81,7 +81,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | 23.A|      |Mitrovic|Nach dem beenden der Voci Abfrage wird dem User eine Möglichkeit gegeben einen Feedback zu machen.|20 min|
 | 24.A  |      |Mitrovic |Der User kann, aber muss nicht ein Feedback abgeben.|20 min|
 |25.A|      |Mitrovic| Das Programm gibt pro richtige Antwort +1 Punkt und pro falschen Antwort -1 Punkt.|30 min|
-|26.A|      |Nursiwat|Das Programm fragt den User ob er seine falschen Antworten verbessern möchte|10 min|
+|26.A|      |Nursiwat|Das Programm fragt den User ob er seine falschen Antworten verbessern möchte.|10 min|
 |27.A|      |Nursiwat|Der User kann entscheiden ob er seine falschen Antworten direkt wieder testen möchte oder eine pause macht.|10 min|
 |28.A|      |Grigioni|||
 Total: 
@@ -90,6 +90,10 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
+Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit der User einen Überblick hat wo sich seine Schwierigkeiten befinden. (Beispielsatz)
+-Herr Colic nach seiner Meinung fragen!
+
 
 ## 4 Realisieren
 
