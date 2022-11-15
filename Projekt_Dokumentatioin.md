@@ -37,7 +37,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
-| 1.1   |Pogramm wird geöffnet              |Der User gibt seinen Namen ein     |Es wird gepseichert und es zeigtr den Hihgscore an         |
+| 1.1   |Pogramm wird geöffnet              |Der User gibt seinen Namen ein     |Es wird gepseichert und es zeigt den Highscore an         |
 | 2.1    |Pogramm wird geöffnet              | Der User bestätigt dass er 20 Mal abgefragt werden will      |man wird 20 mal abgefragt                   |
 | 3.1    |Programm gibt eine Sprachauswahl aus| Der User gibt ein ob er auf Deutsch oder English antworten will| Es wird die ausgewählte Sprache ausgewählt|
 | 4.1    | Der User will seinen Highscore wissen  |   Highscore anzeigen | Der Highscore wird angezeigt|
