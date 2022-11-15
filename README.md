@@ -60,11 +60,11 @@ for (int line = 0; line < lines.Length; line++)
 
 ## Verifikation
 
-* `Code Beispiel:` Das Codebeispiel zeigt ein Code beispiel für eine Liste.
+* `Code Beispiel:` zeigt einen Listenbeispiel im Programm.
 
-* `Textbeschreibung:` Die Textbeschreibung dient zur verständlichkeit des Codes und des Gifs.
+* `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
-* `Gif:` Das Gif dient zur demonstration des Programmes.
+* `Gif:` Das Gif dient zur Demonstration des Programmes.
 
 # Reflexion zum Arbeitsprozess
 
@@ -72,7 +72,7 @@ for (int line = 0; line < lines.Length; line++)
 Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch konnten wir auch als Team Erfolge erzielen.
 
 
-Bei unserer Arbeit lief nicht gut, dass wir einige Probleme mit dem Code zusammenstellen hatten, weil wir noch nie solch eine Arbeit in einer Gruppe gemacht haben.
+Bei unserer Arbeit lief nicht gut, dass wir einige Probleme mit der Code zusammenstellung hatten, weil wir das so bisher noch nie gemacht haben.
 
 
 **VBV**: Ein Verbesserungsvorschlag für uns wäre, dass wir am ende jeder Arbeitssession uns zusammen setzen und den Code zusammen stellen.
