@@ -1,7 +1,9 @@
 # Lern-Bericht
-Gruppenname: Alpaca 
-Mitglieder: Xavier Nursiwat, Filip Kritzner, Filip Mitrovic, Lennard Bühler, Leonardo Grigioni 
+`Gruppenname`: Alpaca 
 
+`Mitglieder`: Xavier Nursiwat, Filip Kritzner, Filip Mitrovic, Lennard Bühler, Leonardo Grigioni 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Einleitung
 Wir haben ein kleines Lernprogramm programmiert mit dem man die English Vocis Lernen kann.
 
@@ -9,7 +11,7 @@ Wir haben ein kleines Lernprogramm programmiert mit dem man die English Vocis Le
 ## Was haben wir gelernt?
 
 
-In diesem Projekt haben wir gelernt, eine Listen zu erstellen und diese Liste in unserem Projekt zu benutzen.
+✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
 
@@ -27,10 +29,10 @@ In diesem Projekt haben wir gelernt, eine Listen zu erstellen und diese Liste in
 # Reflexion zum Arbeitsprozess
 
 
-Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben. Dadurch hatten wir erfolge.
+Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch hatten wir auch erfolge als Team.
 
 
-Wir hatten Probleme mit der Gruppenarbeit, weil wir das in Informatik zum ersten mal gemacht haben.
 
 
-Für das nächste mal würde ich vorschlagen, dass wir besser miteinander Kommuniezieren.
+
+**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
