@@ -89,9 +89,8 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 ## 3 Entscheiden
 
 
-Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit der User einen Überblick hat wo sich seine Schwierigkeiten befinden. (Beispielsatz)
--Herr Colic nach seiner Meinung fragen!
-Entscheidung
+Wir haben uns entschieden einen Timer einzubauen. 
+
 
 ## 4 Realisieren
 
@@ -148,5 +147,4 @@ Das Programm funktioniert einwandfrei und wir sind alle stolz drauf.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
 
