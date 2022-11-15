@@ -1,7 +1,6 @@
 # Lern-Bericht
-`Gruppenname`: Alpaca 
-
-`Mitglieder`: Xavier Nursiwat, Filip Kritzner, Filip Mitrovic, Lennard Bühler, Leonardo Grigioni 
+Gruppenname: Alpaca 
+Mitglieder: Xavier Nursiwat, Filip Kritzner, Filip Mitrovic, Lennard Bühler, Leonardo Grigioni 
 
 ## Einleitung
 Wir haben ein kleines Lernprogramm programmiert mit dem man die English Vocis Lernen kann.
@@ -28,10 +27,10 @@ Wir haben ein kleines Lernprogramm programmiert mit dem man die English Vocis Le
 # Reflexion zum Arbeitsprozess
 
 
-Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und auch gut miteinander konnten. Dadurch hatten wir auch erfolge.
+Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben. Dadurch hatten wir erfolge.
 
 
+Wir hatten Probleme mit der Gruppenarbeit, weil wir das in Informatik zum ersten mal gemacht haben.
 
 
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Für das nächste mal würde ich vorschlagen, dass wir besser miteinander Kommuniezieren.
