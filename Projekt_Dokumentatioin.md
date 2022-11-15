@@ -54,36 +54,36 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A|         |  Bühler     |  Der User wird nach seinem Alter gefragt.            |   25 min            |
-| 2.A  |       |   Bühler        |   Der User wird nach seinem Namen gefragt.           |  25 min            |
-| 3.A  |       |   Bühler        |  Der User wird gefragt ob er einige Persönliche Fragen beantworten möchte.            |     25 min          |
-|  4.A |       |   Bühler        |   Dem User wird eine Übersicht gegeben wie viele Punkte er hat.         |      45 min         |
-|  5.A |       |   Bühler        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat.           |   45 min            |
-|  6.A |       |   Bühler        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min       |     
-|    7.A|      | Nursiwat         |Dem User wird eine Wahl gegeben ob er auf English oder auf Deutsch antworten möchte. |45 min|
-|    8.A|     |Nursiwat            |Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat.|60 min|
-| 9.A   |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
-|  10.A  |      | Kritzner         |Das Punktesystem kann einen Highscore berechnen. |10 min|
-|   11.A |      | Kritzner         |Am Ende wird der höchste Highscore angezeigt.|5 min|
-|  12.A  |      | Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
-|  13.A  |      | Kritzner         |Die Stoppuhr wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
-| 14.A   |      | Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
-| 15.A   |      | Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist.|15 min|
-| 16.A    |      |Mitrovic| Das Programm fragt zufällige Vocis aus unserer Liste ab.|30 min|
-| 17.A  |       |Mitrovic|Dem User werden mindestens 20 Vocis abgefragt. |30 min| 
-| 18.A    |    |Grigioni |Das program zeigt die punkte an.|40 min|
-| 19.A    |      |Mitrovic |Das Programm startet eine Stoppuhr wenn der User mit den Voci abfragen startet.|40 min|
-| 20.A    |      |Grigioni |Das program crasht nicht bei falschen antworten.|20 min|
-| 21.A    |      |Grigioni |Das program hat ein throw catch system um nicht abzustürzen.|50 min|
-| 22.A    |      |Grigioni |Man kann das Programm beenden wenn man es will.|10 min|
-| 23.A|      |Mitrovic|Nach dem beenden der Voci Abfrage wird dem User eine Möglichkeit gegeben einen Feedback zu machen.|20 min|
-| 24.A  |      |Mitrovic |Der User kann, aber muss nicht ein Feedback abgeben.|20 min|
-|25.A|      |Mitrovic| Das Programm gibt pro richtige Antwort +1 Punkt und pro falschen Antwort -1 Punkt.|30 min|
-|26.A|      |Nursiwat|Das Programm fragt den User ob er seine falschen Antworten verbessern möchte.|10 min|
-|27.A|      |Nursiwat|Der User kann entscheiden ob er seine falschen Antworten direkt wieder testen möchte oder eine pause macht.|10 min|
-|Total:| |||780min|
+| AP-№ | | Zuständig | Beschreibung | geplante Zeit |
+| ---- | --------- | ------------ | ------------- |
+| 1.A|           Bühler     |  Der User wird nach seinem Alter gefragt.            |   25 min            |
+| 2.A  |          Bühler        |   Der User wird nach seinem Namen gefragt.           |  25 min            |
+| 3.A  |          Bühler        |  Der User wird gefragt ob er einige Persönliche Fragen beantworten möchte.            |     25 min          |
+|  4.A |          Bühler        |   Dem User wird eine Übersicht gegeben wie viele Punkte er hat.         |      45 min         |
+|  5.A |          Bühler        |   Dem User wird eine Übersicht gegeben wie lange er gebraucht hat.           |   45 min            |
+|  6.A |          Bühler        |   Dem User wird eine Übersicht gegeben wie viele Wörter beim 1. mal richtig beim 2. mal richtig ect.           | 90 min       |     
+|    7.A|       Nursiwat         |Dem User wird eine Wahl gegeben ob er auf English oder auf Deutsch antworten möchte. |45 min|
+|    8.A|     Nursiwat            |Dem User wird eine 2. Chance gegeben, wenn er das Wort beim ersten Mal falsch geantwortet hat.|60 min|
+| 9.A   |       Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
+|  10.A  |       Kritzner         |Das Punktesystem kann einen Highscore berechnen. |10 min|
+|   11.A |       Kritzner         |Am Ende wird der höchste Highscore angezeigt.|5 min|
+|  12.A  |       Kritzner         |Das Punktesystem kann falsche Übersetzungen speichern.|20 min|
+|  13.A  |       Kritzner         |Die Stoppuhr wird nach einem Durchgang gestoppt und das Resultat gespeichert.|20 min|
+| 14.A   |       Kritzner         |Am Schluss wird der beste Versuch angezeigt.|20 min|
+| 15.A   |       Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist.|15 min|
+| 16.A    |      Mitrovic| Das Programm fragt zufällige Vocis aus unserer Liste ab.|30 min|
+| 17.A  |       Mitrovic|Dem User werden mindestens 20 Vocis abgefragt. |30 min| 
+| 18.A    |    Grigioni |Das program zeigt die punkte an.|40 min|
+| 19.A    |      Mitrovic |Das Programm startet eine Stoppuhr wenn der User mit den Voci abfragen startet.|40 min|
+| 20.A    |      Grigioni |Das program crasht nicht bei falschen antworten.|20 min|
+| 21.A    |      Grigioni |Das program hat ein throw catch system um nicht abzustürzen.|50 min|
+| 22.A    |      Grigioni |Man kann das Programm beenden wenn man es will.|10 min|
+| 23.A|      Mitrovic|Nach dem beenden der Voci Abfrage wird dem User eine Möglichkeit gegeben einen Feedback zu machen.|20 min|
+| 24.A  |      Mitrovic |Der User kann, aber muss nicht ein Feedback abgeben.|20 min|
+|25.A|      Mitrovic| Das Programm gibt pro richtige Antwort +1 Punkt und pro falschen Antwort -1 Punkt.|30 min|
+|26.A|      Nursiwat|Das Programm fragt den User ob er seine falschen Antworten verbessern möchte.|10 min|
+|27.A|      Nursiwat|Der User kann entscheiden ob er seine falschen Antworten direkt wieder testen möchte oder eine pause macht.|10 min|
+|Total:| ||780min|
 
 
 ## 3 Entscheiden
