@@ -20,8 +20,8 @@ Unsere voci.csv Datei hat mehrere Spalten und Zeilen. Um die einzelnen Begriffe 
 `Code Besipiel:`
 
 
-```csharp
-Console.WriteLine(" string inPath = @"Voci.csv";
+```csharp 
+string inPath = @"Voci.csv";
 string text = File.ReadAllText(inPath);
 
 string[] lines = text.Split("\r\n");
@@ -45,7 +45,7 @@ for (int line = 0; line < lines.Length; line++)
     english[line] = items[0];
     deutsch[line] = items[1].Replace("\"", string.Empty);
     points[line] = Convert.ToInt32(items[2]);
-}");
+}
 ```
 
 `Gif:`
