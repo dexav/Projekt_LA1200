@@ -37,13 +37,13 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | 
 | ---- | ------------ | ------- | ----------------- |
-| 1    |Pogramm wird geöffnet              |Der User gibt seinen Namen ein     |Es wird gepseichert und es zeigtr den Hihgscore an         |
-| 2    |Pogramm wird geöffnet              | Der User bestätigt dass er 20 Mal abgefragt werden will      |man wird 20 mal abgefragt                   |
-| 3    |Programm gibt eine Sprachauswahl aus| Der User gibt ein ob er auf Deutsch oder English antworten will| Es wird die ausgewählte Sprache ausgewählt|
-| 4    | Der User will seinen Highscore wissen  |   Highscore anzeigen | Der Highscore wird angezeigt|
-| 5   |Programm wird gestartet          |   Der User fängt an mit dem Übersetzen      |Es wird ein Timer gestartet|
-| 6   |man beantwortet eine Frage falsch        |Man bestägtigt dass man weiter macht         |Es wird die selbe Frage nochmals gestellt|
-|7    | User wird nach Alter gefragt  | User gibt Alter ein | Es wird gespeichert |
+| 1.1   |Pogramm wird geöffnet              |Der User gibt seinen Namen ein     |Es wird gepseichert und es zeigtr den Hihgscore an         |
+| 2.1    |Pogramm wird geöffnet              | Der User bestätigt dass er 20 Mal abgefragt werden will      |man wird 20 mal abgefragt                   |
+| 3.1    |Programm gibt eine Sprachauswahl aus| Der User gibt ein ob er auf Deutsch oder English antworten will| Es wird die ausgewählte Sprache ausgewählt|
+| 4.1    | Der User will seinen Highscore wissen  |   Highscore anzeigen | Der Highscore wird angezeigt|
+| 5.1   |Programm wird gestartet          |   Der User fängt an mit dem Übersetzen      |Es wird ein Timer gestartet|
+| 6.1   |man beantwortet eine Frage falsch        |Man bestägtigt dass man weiter macht         |Es wird die selbe Frage nochmals gestellt|
+|7.1    | User wird nach Alter gefragt  | User gibt Alter ein | Es wird gespeichert |
 
 
 
@@ -100,7 +100,33 @@ Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 2.A  |       |           |               |                   |
+| 3.A  |       |           |               |                   |
+| 4.A  |       |           |               |                   |
+| 5.A  |       |           |               |                   |
+| 6.A  |       |           |               |                   |
+| 7.A  |       |           |               |                   |
+| 8.A  |       |           |               |                   |
+| 9.A  |       |           |               |                   |
+| 10.A  |       |           |               |                   |
+| 11.A  |       |           |               |                   |
+| 12.A  |       |           |               |                   |
+| 13.A  |       |           |               |                   |
+| 14.A  |       |           |               |                   |
+| 15.A  |       |           |               |                   |
+| 16.A  |       |           |               |                   |
+| 17.A  |       |           |               |                   |
+| 18.A  |       |           |               |                   |
+| 19.A  |       |           |               |                   |
+| 20.A  |       |           |               |                   |
+| 21.A  |       |           |               |                   |
+| 22.A  |       |           |               |                   |
+| 23.A  |       |           |               |                   |
+| 24.A  |       |           |               |                   |
+| 25.A  |       |           |               |                   |
+| 26.A  |       |           |               |                   |
+| 27.A  |       |           |               |                   |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
