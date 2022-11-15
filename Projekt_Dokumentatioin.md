@@ -140,12 +140,12 @@ Wir haben uns entschieden flasche Antworten wiederholen zu lassen, damit der Use
 | 1.1  |    15.11.2022   |      funktioniert   |    Nursiwat+Kritzner    |
 | 2.1  | 15.11.2022         |   funktioniert       |    Nursiwat+Kritzner      |
 | 3.1  |  15.11.2022        |funktioniert          |    Nursiwat+Kritzner      |
-| 4.1  | 15.11.2022         | funktioniert          |    Nursiwat+Kritzner      |
+| 4.1  | 15.11.2022         | funktioniert nicht         |    Nursiwat+Kritzner      |
 | 5.1  | 15.11.2022         |   funktioniert       |       Nursiwat+Kritzner   |
 | 6.1  |  15.11.2022        |  funktioniert        |      Nursiwat+Kritzner    |
 | 7.1  |  15.11.2022        |     funktioniert     |     Nursiwat+Kritzner     |
 
-Das Programm funktioniert einwandfrei und wir sind alle stolz drauf.
+Das meiste vom Programm funktioniert einwandfrei und wir sind alle stolz drauf. Das einzige was nicht funktioniert ist der Highscore, aber das ist nicht so tragisch.
 
 
 
