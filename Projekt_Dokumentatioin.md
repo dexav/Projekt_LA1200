@@ -99,33 +99,33 @@ Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit 
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| 2.A  |       |           |               |                   |
-| 3.A  |       |           |               |                   |
-| 4.A  |       |           |               |                   |
-| 5.A  |       |           |               |                   |
-| 6.A  |       |           |               |                   |
-| 7.A  |       |           |               |                   |
-| 8.A  |       |           |               |                   |
-| 9.A  |       |           |               |                   |
-| 10.A  |       |           |               |                   |
-| 11.A  |       |           |               |                   |
-| 12.A  |       |           |               |                   |
-| 13.A  |       |           |               |                   |
-| 14.A  |       |           |               |                   |
-| 15.A  |       |           |               |                   |
-| 16.A  |       |           |               |                   |
-| 17.A  |       |           |               |                   |
-| 18.A  |       |           |               |                   |
-| 19.A  |       |           |               |                   |
-| 20.A  |       |           |               |                   |
-| 21.A  |       |           |               |                   |
-| 22.A  |       |           |               |                   |
-| 23.A  |       |           |               |                   |
-| 24.A  |       |           |               |                   |
-| 25.A  |       |           |               |                   |
-| 26.A  |       |           |               |                   |
-| 27.A  |       |           |               |                   |
+| 1.A  |   1.11.22    |     Bühler      |               |                   |
+| 2.A  |     1.11.22    |         Bühler  |               |                   |
+| 3.A  |     1.11.22    |  Bühler         |               |                   |
+| 4.A  |       1.11.22  |  Bühler         |               |                   |
+| 5.A  |        1.11.22 |  Bühler         |               |                   |
+| 6.A  |     1.11.22    |       Bühler    |               |                   |
+| 7.A  |     1.11.22    |     Nursiwat      |               |                   |
+| 8.A  |      1.11.22   |      Nursiwat     |               |                   |
+| 9.A  |     8.11.22    |  Kritzner          |               |                   |
+| 10.A  |      8.11.22   |        Kritzner    |               |                   |
+| 11.A  |     8.11.22    |   Kritzner         |               |                   |
+| 12.A  |     8.11.22    |     Kritzner       |               |                   |
+| 13.A  |    8.11.22     |    Kritzner        |               |                   |
+| 14.A  |    8.11.22     |Kritzner            |               |                   |
+| 15.A  |    8.11.22     |  Mitrovic         |               |                   |
+| 16.A  |        8.11.22 |   Mitrovic         |               |                   |
+| 17.A  |     8.11.22    |   Mitrovic         |               |                   |
+| 18.A  |     8.11.22    |      Grigioni     |               |                   |
+| 19.A  |    8.11.22     |        Mitrovic    |               |                   |
+| 20.A  |   8.11.22      |     Grigioni      |               |                   |
+| 21.A  |   8.11.22      |    Grigioni       |               |                   |
+| 22.A  |   8.11.22      |         Grigioni  |               |                   |
+| 23.A  |   8.11.22      |      Mitrovic     |               |                   |
+| 24.A  |   8.11.22      |      Mitrovic     |               |                   |
+| 25.A  |   8.11.22      |      Mitrovic     |               |                   |
+| 26.A  |  8.11.22        |      Nursiwat      |               |                   |
+| 27.A  |  8.11.22        |    Nursiwat        |               |                   |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
@@ -141,14 +141,6 @@ Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
