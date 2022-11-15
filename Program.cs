@@ -7,7 +7,6 @@ namespace Vokabelabfragesystem
 {
     internal class Program
     {
-        private static int highscore = 0;
         private static ArrayList bereitsÜbersetztDeutsch = new ArrayList();
         private static ArrayList bereitsÜbersetztEnglish = new ArrayList();
 
@@ -55,7 +54,7 @@ namespace Vokabelabfragesystem
 
             else if (endscheidung.ToLower() == "nein")
             {
-                Console.WriteLine("Dann machen wir jetzt weiter");
+                Console.WriteLine("Dann machen wir jetzt weiter\n");
             }
 
             int punkte = 0;
@@ -63,9 +62,8 @@ namespace Vokabelabfragesystem
             Console.WriteLine("Möchtest du auf English(EN) oder auf Deutsch(DE) antworten?");
             string antwort = Console.ReadLine();
 
-            if (antwort == "DE")
+            if (antwort == "EN")
             {
-                Console.WriteLine("Sie antworten jetzt auf deutsch");
                 Console.WriteLine("Herzlich Willkommen zur Englisch Voci abfrage!");
 
                 DateTime Start = DateTime.Now;
@@ -87,9 +85,10 @@ namespace Vokabelabfragesystem
 
                             loop++;
 
-                            if (loop == 5)
+                            if (loop == 20)
                             {
                                 alleVociÜbersetzt = true;
+                                break;
                             }
 
                             if (bereitsÜbersetztDeutsch.Count == 0)
@@ -100,7 +99,6 @@ namespace Vokabelabfragesystem
                             for (int i = 0; i < bereitsÜbersetztDeutsch.Count; i++)
                             {
                                 string bereitsÜbersetzt = Convert.ToString(bereitsÜbersetztDeutsch[i]);
-                                Console.WriteLine(bereitsÜbersetzt);
 
                                 if (bereitsÜbersetzt == deutsch[nummer])
                                 {
@@ -118,32 +116,35 @@ namespace Vokabelabfragesystem
                             break;
                         }
 
-                        Console.WriteLine("übersetze ins englisch:");
+                        Console.WriteLine("Übersetze ins englisch:");
                         Console.WriteLine(deutsch[nummer]);
                         string übersetzung = Console.ReadLine();
                         if (übersetzung == english[nummer])
                         {
-                            Console.WriteLine("Du hast es richtig übersetzt ");
+                            Console.WriteLine("Du hast es richtig übersetzt\n");
                             bereitsÜbersetztDeutsch.Add(deutsch[nummer]);
                             punkte++;
                         }
                         else
                         {
-                            Console.WriteLine("schlecht gemacht du lappen");
+                            Console.WriteLine("schlecht gemacht du lappen\n");
                             punkte--;
                         }
-                        Console.WriteLine("willst du nochmal spielen? true/false");
-                        wiederholung = Convert.ToBoolean((Console.ReadLine()));
                     }
                   
                 }while (wiederholung == true);
+
+                File.WriteAllText("punkte.txt", Convert.ToString(punkte));
 
                 Console.WriteLine("Du hast " + punkte + " Punkte erziehlt!");
                 DateTime Ende = DateTime.Now;
                 TimeSpan Zeit = Ende - Start;
                 Console.WriteLine(Zeit);
+
+                HighscoreBerechnen();
+
             }
-            else if (antwort == "EN")
+            else if (antwort == "DE")
             {
                 Console.WriteLine("Herzlich Willkommen zur English Voci abfrage!\n");
 
@@ -169,6 +170,7 @@ namespace Vokabelabfragesystem
                             if (loop == 20)
                             {
                                 alleVociÜbersetzt = true;
+                                break;
                             }
 
                             if (bereitsÜbersetztEnglish.Count == 0)
@@ -201,17 +203,15 @@ namespace Vokabelabfragesystem
                         string übersetzung2 = Console.ReadLine();
                         if (übersetzung2 == deutsch[nummer])
                         {
-                            Console.WriteLine("Du hast es richtig übersetzt ");
+                            Console.WriteLine("Du hast es richtig übersetzt\n");
                             bereitsÜbersetztEnglish.Add(english[nummer]);
                             punkte++;
                         }
                         else
                         {
-                            Console.WriteLine("schlecht gemacht du lappen");
+                            Console.WriteLine("schlecht gemacht du lappen\n");
                             punkte--;
                         }
-                        Console.WriteLine("\nWillst du nochmal spielen? true/false");
-                        wiederholung = Convert.ToBoolean(Console.ReadLine());
                         
                     }
                 } while (wiederholung == true);
@@ -223,28 +223,27 @@ namespace Vokabelabfragesystem
                 TimeSpan Zeit = Ende - Start;
                 Console.WriteLine(Zeit);
 
-            }
-            
+            }          
 
         }
 
-        public static int Highscore(int falscheWörter, int richtigeWörter)
+        
+        public static void HighscoreBerechnen()
         {
-            if(richtigeWörter < falscheWörter)
+            int Rekord = 0;
+            int punkte = Convert.ToInt32(File.ReadAllText("punkte.txt"));
+
+            if(punkte < Rekord)
             {
                 Console.WriteLine("Kein Highscore");
             }
-
-            int Punkte = richtigeWörter - falscheWörter;
             
-            if (Punkte > highscore)
+            if (punkte > Rekord)
             {
-                highscore = Punkte;
-                Console.WriteLine("Highscore: " + highscore);
+                Rekord = punkte;
+                Console.WriteLine("Highscore: " + Rekord);
             }
-
-            return highscore;
         }
-
+        
     }
 }
