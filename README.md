@@ -3,10 +3,10 @@ Gruppenname: Alpaca
 Mitglieder: Xavier Nursiwat, Filip Kritzner, Filip Mitrovic, Lennard Bühler, Leonardo Grigioni 
 
 ## Einleitung
-Wir haben ein kleines Vocabular Programm gemacht mit dem man Lernen kann.
+Wir haben ein kleines Lernprogramm gemacht mit dem man die English Vocis Lernen kann.
 
 
-## Was habe ich gelernt?
+## Was haben wir gelernt?
 
 
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
