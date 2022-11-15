@@ -73,10 +73,10 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 | 15.A   |       Mitrovic         |Dem User wird angezeigt ob seine Antwort richtig oder falsch ist.|15 min|
 | 16.A    |      Mitrovic| Das Programm fragt zufällige Vocis aus unserer Liste ab.|30 min|
 | 17.A  |       Mitrovic|Dem User werden mindestens 20 Vocis abgefragt. |30 min| 
-| 18.A    |    Grigioni |Das program zeigt die punkte an.|40 min|
+| 18.A    |    Grigioni |Das Programm zeigt die punkte an.|40 min|
 | 19.A    |      Mitrovic |Das Programm startet eine Stoppuhr wenn der User mit den Voci abfragen startet.|40 min|
-| 20.A    |      Grigioni |Das program crasht nicht bei falschen antworten.|20 min|
-| 21.A    |      Grigioni |Das program hat ein throw catch system um nicht abzustürzen.|50 min|
+| 20.A    |      Grigioni |Das Programm crasht nicht bei falschen antworten.|20 min|
+| 21.A    |      Grigioni |Das Programm hat ein throw catch system um nicht abzustürzen.|50 min|
 | 22.A    |      Grigioni |Man kann das Programm beenden wenn man es will.|10 min|
 | 23.A|      Mitrovic|Nach dem beenden der Voci Abfrage wird dem User eine Möglichkeit gegeben einen Feedback zu machen.|20 min|
 | 24.A  |      Mitrovic |Der User kann, aber muss nicht ein Feedback abgeben.|20 min|
