@@ -19,10 +19,41 @@ Unsere voci.csv Datei hat mehrere Spalten und Zeilen. Um die einzelnen Begriffe 
 
 `Bild:`
 
-![b0d39ea6-43cd-4ac7-a707-1d220c01f34f](https://user-images.githubusercontent.com/110892641/201869235-34b50cff-0fd6-4372-ab78-07c669a77fff.jpg)
 
 ```csharp
-Console.WriteLine("Hall");
+Console.WriteLine(" string inPath = @"Voci.csv";
+            string text = File.ReadAllText(inPath);
+
+
+
+           string[] lines = text.Split("\r\n");
+
+
+
+           int words = lines.Length;
+            string[] english = new string[words];
+            string[] deutsch = new string[words];
+            int[] points = new int[words];
+
+
+
+           for (int line = 0; line < lines.Length; line++)
+            {
+                string[] items = lines[line].Split(',');
+                english[line] = items[0];
+                deutsch[line] = items[1];
+                points[line] = Convert.ToInt32(items[2]);
+            }
+
+
+
+           for (int line = 0; line < lines.Length; line++)
+            {
+                string[] items = lines[line].Split(',');
+                english[line] = items[0];
+                deutsch[line] = items[1].Replace("\"", string.Empty);
+                points[line] = Convert.ToInt32(items[2]);
+            }");
 ```
 
 `Gif:`
