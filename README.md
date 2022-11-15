@@ -29,7 +29,7 @@ Wir haben ein kleines Lernprogramm programmiert mit dem man die English Vocis Le
 # Reflexion zum Arbeitsprozess
 
 
-Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch hatten wir auch erfolge als Team.
+Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch konnten wir auch als Team Erfolge erzielen.
 
 
 
