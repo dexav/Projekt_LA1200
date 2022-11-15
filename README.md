@@ -18,6 +18,7 @@ Wir wissen nun wie wir Daten in einer `.csv Datei` speichern und nachher abrufen
 Unsere voci.csv Datei hat mehrere Spalten und Zeilen. Um die einzelnen Begriffe zu bekommen, muss man die Datei aufteilen und die einzelnen Begriffe in **mehreren Arrays** speichern. Die deutschen Begriffe müssen in das Array deutsch und die englischen Begriffe in das Array english. Zuerst muss man herausfinden wie viele `Zeilen` die Datei hat. Danach ist es wichtig zu wissen, wie viele `Spalten` vorhanden sind. Wenn man diese Information hat, kann man anfangen die einzelnen Begriffe aus den jeweiligen Zeilen und Spalten auszulesen und im richtigen Array zu speichern. <br>
 Also man liest den `ersten Begriff` aus der ersten Zeile und ersten Spalte und speichert ihn im array english auf der Position 0. Danach liest man den `zweiten Begriff` aus der ersten Zeile und ersten Spalte und speichert ihn im array deutsch auf der Position 0. Am Schluss speichert man noch die Punkte. Man liest den `dritten Begriff` (hier eine Zahl) der ersten Zeile und ersten Spalte und speichert ihn im array points. Man führt das weiter bis man alle Begriffe gespeichert hat.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Code Besipiel:`
 
 
