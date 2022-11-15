@@ -54,7 +54,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 ## 2 Planen
 
-| AP-№ | | Zuständig | Beschreibung | geplante Zeit |
+| AP-№ |  Zuständig | Beschreibung | geplante Zeit |
 | ---- | --------- | ------------ | ------------- |
 | 1.A|           Bühler     |  Der User wird nach seinem Alter gefragt.            |   25 min            |
 | 2.A  |          Bühler        |   Der User wird nach seinem Namen gefragt.           |  25 min            |
