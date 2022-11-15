@@ -99,33 +99,33 @@ Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit 
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   1.11.22    |     Bühler      |               |                   |
-| 2.A  |     1.11.22    |         Bühler  |               |                   |
-| 3.A  |     1.11.22    |  Bühler         |               |                   |
-| 4.A  |       1.11.22  |  Bühler         |               |                   |
-| 5.A  |        1.11.22 |  Bühler         |               |                   |
-| 6.A  |     1.11.22    |       Bühler    |               |                   |
-| 7.A  |     1.11.22    |     Nursiwat      |               |                   |
-| 8.A  |      1.11.22   |      Nursiwat     |               |                   |
-| 9.A  |     8.11.22    |  Kritzner          |               |                   |
-| 10.A  |      8.11.22   |        Kritzner    |               |                   |
-| 11.A  |     8.11.22    |   Kritzner         |               |                   |
-| 12.A  |     8.11.22    |     Kritzner       |               |                   |
-| 13.A  |    8.11.22     |    Kritzner        |               |                   |
-| 14.A  |    8.11.22     |Kritzner            |               |                   |
-| 15.A  |    8.11.22     |  Mitrovic         |               |                   |
-| 16.A  |        8.11.22 |   Mitrovic         |               |                   |
-| 17.A  |     8.11.22    |   Mitrovic         |               |                   |
-| 18.A  |     8.11.22    |      Grigioni     |               |                   |
-| 19.A  |    8.11.22     |        Mitrovic    |               |                   |
-| 20.A  |   8.11.22      |     Grigioni      |               |                   |
-| 21.A  |   8.11.22      |    Grigioni       |               |                   |
-| 22.A  |   8.11.22      |         Grigioni  |               |                   |
-| 23.A  |   8.11.22      |      Mitrovic     |               |                   |
-| 24.A  |   8.11.22      |      Mitrovic     |               |                   |
-| 25.A  |   8.11.22      |      Mitrovic     |               |                   |
-| 26.A  |  8.11.22        |      Nursiwat      |               |                   |
-| 27.A  |  8.11.22        |    Nursiwat        |               |                   |
+| 1.A  |   1.11.22    |     Bühler      |   25 min            | 30min                  |
+| 2.A  |     1.11.22    |         Bühler  |       25min        |     20min              |
+| 3.A  |     1.11.22    |  Bühler         |            25min   |          20min         |
+| 4.A  |       1.11.22  |  Bühler         |         45min      |               50min    |
+| 5.A  |        1.11.22 |  Bühler         |           45min    |           40min        |
+| 6.A  |     1.11.22    |       Bühler    |         90min      |           100min        |
+| 7.A  |     1.11.22    |     Nursiwat      |         45min      |           50min        |
+| 8.A  |      1.11.22   |      Nursiwat     |          60min     |          65min         |
+| 9.A  |     8.11.22    |  Kritzner          |             20min  |           20min        |
+| 10.A  |      8.11.22   |        Kritzner    |   10min            |            15min       |
+| 11.A  |     8.11.22    |   Kritzner         |        5min       |            10min       |
+| 12.A  |     8.11.22    |     Kritzner       | 20min              |         20min          |
+| 13.A  |    8.11.22     |    Kritzner        |      20min         |         30min          |
+| 14.A  |    8.11.22     |Kritzner            |        20min       |       25min            |
+| 15.A  |    8.11.22     |  Mitrovic         |        15min       |         20min          |
+| 16.A  |        8.11.22 |   Mitrovic         |           30min    |        35min           |
+| 17.A  |     8.11.22    |   Mitrovic         |    30min           |          35min         |
+| 18.A  |     8.11.22    |      Grigioni     | 40min              |           45min        |
+| 19.A  |    8.11.22     |        Mitrovic    |      40min         |          45min         |
+| 20.A  |   8.11.22      |     Grigioni      |  20 min             |           30min        |
+| 21.A  |   8.11.22      |    Grigioni       | 50 min              |          60min         |
+| 22.A  |   8.11.22      |         Grigioni  |  10 min             |          20min         |
+| 23.A  |   8.11.22      |      Mitrovic     |   20 min            |           25min        |
+| 24.A  |   8.11.22      |      Mitrovic     |   20 min            |          25min         |
+| 25.A  |   8.11.22      |      Mitrovic     | 30 min              |         25min          |
+| 26.A  |  8.11.22        |      Nursiwat      |     10 min          |         15min          |
+| 27.A  |  8.11.22        |    Nursiwat        |  10 min             |          15min         |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
