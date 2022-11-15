@@ -26,7 +26,7 @@ In diesem Projekt haben wir gelernt, eine Listen zu erstellen und diese in unser
 
 * `Bild vom Code:` Das Bild zeigt ein Code beispiel für eine Liste.
 
-* `Textbeschreibung:` Die Textbeschreibung dient zur verstäntlichkeit des Bildes und des Gifts.
+* `Textbeschreibung:` Die Textbeschreibung dient zur verständlichkeit des Codes und des Gifs.
 
 * `Gif:` Das Gif dient zur demonstration des Programmes.
 
