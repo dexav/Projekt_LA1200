@@ -1,6 +1,6 @@
 # Lern-Bericht
 Gruppenname: Alpaca 
-Mitglieder: Xavier Nursiwat, Filip Kritzner, Filip Mitrovic, Lennard Bühler, Leonardo Grigioni 
+*Mitglieder: Xavier Nursiwat, Filip Kritzner, Filip Mitrovic, Lennard Bühler, Leonardo Grigioni 
 
 ## Einleitung
 Wir haben ein kleines Lernprogramm programmiert mit dem man die English Vocis Lernen kann.
