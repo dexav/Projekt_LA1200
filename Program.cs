@@ -106,15 +106,15 @@ namespace LA1200_
 
             Console.WriteLine("Danke für das durchlaufen unseres Voci programm.");
             Console.WriteLine("Würden Sie uns noch noch eine Rückmeldung zum Programm geben? (Ja/Nein)");
-            string Rückmeldung = Console.ReadLine();
-            if (Rückmeldung == "Ja")
+            string Fazit = Console.ReadLine();
+            if (Fazit == "Ja")
             {
                 Console.WriteLine("Wie fanden Sie unser Programm? (Schlecht/Okay/Gut)");
                 Console.ReadLine();
                 Console.WriteLine("Hätten Sie noch Verbersserungsvorschläge? (Fals Ja bitte unten eingeben, fals Nein einfach Nein schreiben)");
                 Console.ReadLine();
             }
-            else if (Rückmeldung == "Nein")
+            else if (Fazit == "Nein")
             {
                 Console.WriteLine("Trozdem danke");
             }
