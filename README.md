@@ -31,7 +31,7 @@ In diesem Projekt haben wir gelernt, eine Listen zu erstellen und diese in unser
 Bei unserer Arbeit lief gut, dass wir unser Projekt sehr gut geplant haben und somit auch in guter Atmosphäre zusammen arbeiten konnten. Dadurch konnten wir auch als Team Erfolge erzielen.
 
 
+Bei unserer Arbeit lief nicht gut, dass wir einige Probleme hatten mit dem Code zusammenstellen hatten, weil wir noch nie solch eine Arbeit in einer Gruppe gemacht haben.
 
 
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ein Verbesserungsvorschlag für uns wäre das wir 
