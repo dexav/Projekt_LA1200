@@ -11,16 +11,14 @@ Wir haben ein kleines Lernprogramm programmiert mit dem man die English Vocis Le
 ## Was haben wir gelernt?
 
 
-In diesem Projekt haben wir gelernt, eine Listen zu erstellen und diese in unserem Programm zu verwenden.
+In diesem Projekt haben wir gelernt, eine Liste zu erstellen und diese in unserem Programm zu verwenden.
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Wir wissen nun wie wir Daten in einer .csv Datei speichern und nachher abrufen können. Anhand des Bildes kann man den Code sehen, welcher zum einlesen und speichern der Daten in einem Array gebraucht wird. Unsere voci.csv Datei hat mehrere Spalten und Zeilen. Um die einzelnen Begriffe zu bekommen, muss man die Datei aufteilen und die einzelnen Begriffe in mehreren Arrays speichern. Zuerst muss man herausfinden wie viele Zeilen die Datei hat. Danach ist es wichtig zu wissen wie viele Spalten vorhanden sind. Wenn man diese Information hat, kann man anfangen die einzelnen Begriffe aus den jeweiligen Zeilen und Spalten auszulesen und im richtigen Array zu speichern.
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 ![b0d39ea6-43cd-4ac7-a707-1d220c01f34f](https://user-images.githubusercontent.com/110892641/201869235-34b50cff-0fd6-4372-ab78-07c669a77fff.jpg)
+
+
 
 ## Verifikation
 
