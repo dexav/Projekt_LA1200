@@ -21,6 +21,10 @@ Unsere voci.csv Datei hat mehrere Spalten und Zeilen. Um die einzelnen Begriffe 
 
 ![b0d39ea6-43cd-4ac7-a707-1d220c01f34f](https://user-images.githubusercontent.com/110892641/201869235-34b50cff-0fd6-4372-ab78-07c669a77fff.jpg)
 
+```csharp
+Console.WriteLine("Hall");
+```
+
 `Gif:`
 
 
