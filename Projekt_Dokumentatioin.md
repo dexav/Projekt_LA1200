@@ -8,7 +8,7 @@ Gruppe Alpaca Nursiwat
 |   25.10.2022    |  0.0.1  |       Dokumentation angefangen und Planen des Projektes.                            |
 |    01.11.2022   | 0.0.2   |       Dokumentation erweitert, Liste für das Voci, Stoppuhr, Startfragen und Feedback am Ende.                                                       |
 |    07.11.2022   | 0.0.3   |       Dokumentation erweietert, am Programm weiter gearbeitet.              |
-|    14.11.2022   | 1.0.0   |            Programm ist fertig.                                                  |
+|    15.11.2022   | 1.0.0   |            Programm ist fertig.                                                   |
 
 
 
