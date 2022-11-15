@@ -90,7 +90,9 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 
 Wir haben uns entschieden eine Stoppuhr einzubauen, weil wir denken dass es den User mehr motiviert zu lernen.
+
 Wir haben uns entschieden einen Highscore einzubauen, damit der User sehen wie gut er gelernt hat.
+
 Wir haben uns entschieden flasche Antworten wiederholen zu lassen, damit der User schnell die Vokabeln lernt.
 
 
