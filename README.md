@@ -60,7 +60,7 @@ for (int line = 0; line < lines.Length; line++)
 
 ## Verifikation
 
-* `Code Beispiel:` zeigt einen Listenbeispiel im Programm.
+* `Code Beispiel:` Zeigt einen Listenbeispiel im Programm.
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
