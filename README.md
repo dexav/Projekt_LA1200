@@ -24,7 +24,9 @@ In diesem Projekt haben wir gelernt, eine Listen zu erstellen und diese in unser
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Bild vom Code: Das Bild zeigt ein Code beispiel für eine Liste.
+Textbeschreibung: Die Textbeschreibung dient zur verstäntlichkeit des Bildes und des Gifts.
+Gif: Das Gif dient zur demonstration des Programmes.
 
 # Reflexion zum Arbeitsprozess
 
