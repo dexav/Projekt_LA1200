@@ -24,9 +24,11 @@ In diesem Projekt haben wir gelernt, eine Listen zu erstellen und diese in unser
 
 ## Verifikation
 
-Bild vom Code: Das Bild zeigt ein Code beispiel für eine Liste.
-Textbeschreibung: Die Textbeschreibung dient zur verstäntlichkeit des Bildes und des Gifts.
-Gif: Das Gif dient zur demonstration des Programmes.
+* `Bild vom Code:` Das Bild zeigt ein Code beispiel für eine Liste.
+
+* `Textbeschreibung:` Die Textbeschreibung dient zur verstäntlichkeit des Bildes und des Gifts.
+
+* `Gif:` Das Gif dient zur demonstration des Programmes.
 
 # Reflexion zum Arbeitsprozess
 
