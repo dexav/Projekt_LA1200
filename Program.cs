@@ -85,7 +85,7 @@ namespace Vokabelabfragesystem
 
                             loop++;
 
-                            if (loop == 20)
+                            if (loop == 25)
                             {
                                 alleVociÜbersetzt = true;
                                 break;
@@ -167,7 +167,7 @@ namespace Vokabelabfragesystem
 
                             loop++;
 
-                            if (loop == 20)
+                            if (loop == 25)
                             {
                                 alleVociÜbersetzt = true;
                                 break;
