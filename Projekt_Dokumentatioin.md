@@ -49,7 +49,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 ### 1.4 Diagramme
 
-![Vokabelabfragesystem](https://user-images.githubusercontent.com/110892683/199191825-54e9a86f-454f-4414-8c04-3a19e41bbdf0.png)
+![La1200PAP](https://user-images.githubusercontent.com/110892637/201883222-0bd2a337-b931-4d8c-97ae-d6d8b876aedf.png)
 
 
 ## 2 Planen
