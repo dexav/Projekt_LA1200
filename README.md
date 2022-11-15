@@ -17,7 +17,7 @@ In diesem Projekt haben wir gelernt, eine Liste zu erstellen und diese in unsere
 Wir wissen nun wie wir Daten in einer .csv Datei speichern und nachher abrufen können. Anhand des Bildes kann man den Code sehen, welcher zum einlesen und speichern der Daten in einem Array gebraucht wird.
 Unsere voci.csv Datei hat mehrere Spalten und Zeilen. Um die einzelnen Begriffe zu bekommen, muss man die Datei aufteilen und die einzelnen Begriffe in mehreren Arrays speichern. Die deutschen Begriffe müssen in das Array deutsch und die englischen Begriffe in das Array english. Zuerst muss man herausfinden wie viele Zeilen die Datei hat. Danach ist es wichtig zu wissen wie viele Spalten vorhanden sind. Wenn man diese Information hat, kann man anfangen die einzelnen Begriffe aus den jeweiligen Zeilen und Spalten auszulesen und im richtigen Array zu speichern.
 
-`Bild:`
+`Code Besipiel:`
 
 
 ```csharp
@@ -61,7 +61,7 @@ Console.WriteLine(" string inPath = @"Voci.csv";
 
 ## Verifikation
 
-* `Bild vom Code:` Das Bild zeigt ein Code beispiel für eine Liste.
+* `Code Beispiel:` Das Bild zeigt ein Code beispiel für eine Liste.
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur verständlichkeit des Codes und des Gifs.
 
