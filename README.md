@@ -52,6 +52,8 @@ for (int line = 0; line < lines.Length; line++)
 `Gif:`
 
 
+
+
 ## Verifikation
 
 * `Code Beispiel:` Das Codebeispiel zeigt ein Code beispiel für eine Liste.
