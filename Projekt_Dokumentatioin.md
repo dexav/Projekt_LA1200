@@ -88,11 +88,10 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit der User einen Überblick hat wo sich seine Schwierigkeiten befinden. (Beispielsatz)
 -Herr Colic nach seiner Meinung fragen!
-
+Entscheidung
 
 ## 4 Realisieren
 
@@ -127,7 +126,7 @@ Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit 
 | 27.A  |  8.11.22        |    Nursiwat        |  10 min             |          15min         |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -135,8 +134,13 @@ Entscheidung 1: Ich möchte, dass die Daten des Users gespeichert werden, damit 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |    15.11.2022   |          |        |
+| 2.1  | 15.11.2022         |          |        |
+| 3.1  |  15.11.2022        |          |        |
+| 4.1  | 15.11.2022         |          |        |
+| 5.1  | 15.11.2022         |          |        |
+| 6.1  |  15.11.2022        |          |        |
+| 7.1  |  15.11.2022        |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
