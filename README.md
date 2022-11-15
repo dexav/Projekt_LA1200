@@ -34,9 +34,9 @@ int[] points = new int[words];
 for (int line = 0; line < lines.Length; line++)
 {
     string[] items = lines[line].Split(',');
-    english[line] = items[0];
-    deutsch[line] = items[1];
-    points[line] = Convert.ToInt32(items[2]);
+    english[line] = items[0];                     //Array english
+    deutsch[line] = items[1];                    //Array deutsch
+    points[line] = Convert.ToInt32(items[2]);   //Array Punkte
 }
 
 for (int line = 0; line < lines.Length; line++)
