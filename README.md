@@ -51,7 +51,7 @@ for (int line = 0; line < lines.Length; line++)
 
 `Gif:`
 
-
+https://bbbaden-my.sharepoint.com/:i:/g/personal/l_buehler_inf22_stud_bbbaden_ch/EfmtS8DC4Z9Lvph7Nb7MEOEBXFWOmohdczPhE7zhb9WAlg
 
 
 ## Verifikation
