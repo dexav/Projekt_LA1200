@@ -127,7 +127,7 @@ Wir haben uns entschieden flasche Antworten wiederholen zu lassen, damit der Use
 | 25.A  |   8.11.22      |      Mitrovic     | 30 min              |         25min          |
 | 26.A  |  8.11.22        |      Nursiwat      |     10 min          |         15min          |
 | 27.A  |  8.11.22        |    Nursiwat        |  10 min             |          15min         |
-|Total:|  |||890 min|
+|Total:|  ||780 min|890 min|
 
 
 
