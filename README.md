@@ -51,7 +51,8 @@ for (int line = 0; line < lines.Length; line++)
 
 `Gif:`
 
-![C__Users_filip_source_repos_Vokabelabfragesystem_Vokabelabfragesystem_bin_Debug_net6_0_Vokabelabfragesystem_exe_2022-11-15_10-55-51__1__AdobeExpress](https://user-images.githubusercontent.com/110892683/201898574-648bc5da-efde-441d-8a67-f5f0eb4180d7.gif)<br>
+![C__Users_filip_source_repos_Vokabelabfragesystem_Vokabelabfragesystem_bin_Debug_net6_0_Vokabelabfragesystem_exe_2022-11-15_14-03-22_AdobeExpress](https://user-images.githubusercontent.com/110892683/201927125-efa3244e-901c-4321-ac1a-afb5ed375cc7.gif)
+
 
 ![_Voci_csv_-_Editor_2022-11-15_10-33-38_AdobeExpress](https://user-images.githubusercontent.com/110892683/201898598-3aa4472a-fe1f-44b5-9193-9c1d8d808b5f.gif)
 
