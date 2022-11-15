@@ -83,7 +83,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 |25.A|      |Mitrovic| Das Programm gibt pro richtige Antwort +1 Punkt und pro falschen Antwort -1 Punkt.|30 min|
 |26.A|      |Nursiwat|Das Programm fragt den User ob er seine falschen Antworten verbessern möchte.|10 min|
 |27.A|      |Nursiwat|Der User kann entscheiden ob er seine falschen Antworten direkt wieder testen möchte oder eine pause macht.|10 min|
-Total: 
+|Total:| |||780min|
 
 
 ## 3 Entscheiden
