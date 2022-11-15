@@ -22,38 +22,30 @@ Unsere voci.csv Datei hat mehrere Spalten und Zeilen. Um die einzelnen Begriffe 
 
 ```csharp
 Console.WriteLine(" string inPath = @"Voci.csv";
-            string text = File.ReadAllText(inPath);
+string text = File.ReadAllText(inPath);
 
+string[] lines = text.Split("\r\n");
 
+int words = lines.Length;
+string[] english = new string[words];
+string[] deutsch = new string[words];
+int[] points = new int[words];
 
-           string[] lines = text.Split("\r\n");
+for (int line = 0; line < lines.Length; line++)
+{
+    string[] items = lines[line].Split(',');
+    english[line] = items[0];
+    deutsch[line] = items[1];
+    points[line] = Convert.ToInt32(items[2]);
+}
 
-
-
-           int words = lines.Length;
-            string[] english = new string[words];
-            string[] deutsch = new string[words];
-            int[] points = new int[words];
-
-
-
-           for (int line = 0; line < lines.Length; line++)
-            {
-                string[] items = lines[line].Split(',');
-                english[line] = items[0];
-                deutsch[line] = items[1];
-                points[line] = Convert.ToInt32(items[2]);
-            }
-
-
-
-           for (int line = 0; line < lines.Length; line++)
-            {
-                string[] items = lines[line].Split(',');
-                english[line] = items[0];
-                deutsch[line] = items[1].Replace("\"", string.Empty);
-                points[line] = Convert.ToInt32(items[2]);
-            }");
+for (int line = 0; line < lines.Length; line++)
+{
+    string[] items = lines[line].Split(',');
+    english[line] = items[0];
+    deutsch[line] = items[1].Replace("\"", string.Empty);
+    points[line] = Convert.ToInt32(items[2]);
+}");
 ```
 
 `Gif:`
