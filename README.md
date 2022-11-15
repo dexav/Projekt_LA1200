@@ -52,15 +52,13 @@ for (int line = 0; line < lines.Length; line++)
 
 `Gif:`
 
+![_Voci_csv_-_Editor_2022-11-15_14-21-44_AdobeExpress](https://user-images.githubusercontent.com/110892683/201930351-6c462a8d-1851-4601-99ed-d3ef94544393.gif)
+
 ![C__Users_filip_source_repos_Vokabelabfragesystem_Vokabelabfragesystem_bin_Debug_net6_0_Vokabelabfragesystem_exe_2022-11-15_14-03-22_AdobeExpress](https://user-images.githubusercontent.com/110892683/201927125-efa3244e-901c-4321-ac1a-afb5ed375cc7.gif)
-
-
-![_Voci_csv_-_Editor_2022-11-15_10-33-38_AdobeExpress](https://user-images.githubusercontent.com/110892683/201898598-3aa4472a-fe1f-44b5-9193-9c1d8d808b5f.gif)
-
 
 ## Verifikation
 
-* `Code Beispiel:` Zeigt einen Listenbeispiel im Programm.
+* `Code Beispiel:` zeigt einen Listenbeispiel im Programm.
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
