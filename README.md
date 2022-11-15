@@ -54,7 +54,7 @@ for (int line = 0; line < lines.Length; line++)
 
 ## Verifikation
 
-* `Code Beispiel:` Das Bild zeigt ein Code beispiel für eine Liste.
+* `Code Beispiel:` Das Codebeispiel zeigt ein Code beispiel für eine Liste.
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur verständlichkeit des Codes und des Gifs.
 
