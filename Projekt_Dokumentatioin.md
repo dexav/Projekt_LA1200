@@ -134,15 +134,16 @@ Entscheidung
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |    15.11.2022   |          |        |
-| 2.1  | 15.11.2022         |          |        |
-| 3.1  |  15.11.2022        |          |        |
-| 4.1  | 15.11.2022         |          |        |
-| 5.1  | 15.11.2022         |          |        |
-| 6.1  |  15.11.2022        |          |        |
-| 7.1  |  15.11.2022        |          |        |
+| 1.1  |    15.11.2022   |      funktioniert   |    Nursiwat+Kritzner    |
+| 2.1  | 15.11.2022         |   funktioniert       |    Nursiwat+Kritzner      |
+| 3.1  |  15.11.2022        |funktioniert          |    Nursiwat+Kritzner      |
+| 4.1  | 15.11.2022         | funktioniert          |    Nursiwat+Kritzner      |
+| 5.1  | 15.11.2022         |   funktioniert       |       Nursiwat+Kritzner   |
+| 6.1  |  15.11.2022        |  funktioniert        |      Nursiwat+Kritzner    |
+| 7.1  |  15.11.2022        |     funktioniert     |     Nursiwat+Kritzner     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Das Programm funktioniert einwandfrei und wir sind alle stolz drauf.
+
 
 
 ## 6 Auswerten
