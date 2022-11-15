@@ -11,8 +11,7 @@ Wir haben ein kleines Lernprogramm programmiert mit dem man die English Vocis Le
 ## Was haben wir gelernt?
 
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
-
+In diesem Projekt haben wir gelernt, eine Listen zu erstellen und diese in unserem Programm zu verwenden.
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
