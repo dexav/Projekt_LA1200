@@ -89,7 +89,7 @@ Wir machen einen Vokabelfragesystem, wo man auf Deutsch oder auf der Fremdsprach
 ## 3 Entscheiden
 
 
-Wir haben uns entschieden einen Timer einzubauen. 
+Wir haben uns entschieden eine Stoppuhr einzubauen. 
 
 
 ## 4 Realisieren
